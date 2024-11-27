@@ -1,0 +1,29 @@
+body {
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center; 
+    background-color: #121212;
+    height: 100%;
+    margin: 0;
+    padding: 10%;
+}
+
+.roboto-bold {
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+    font-style: normal;
+  }
+
+#img{
+    text-align: center;
+    width: 40%;
+    height: 20%;
+    margin-top: 40%;
+}
+
+/*p{
+    color: #fff;
+    font-weight: bold;
+    text-align: center;
+    font-size: 130%;
+}
